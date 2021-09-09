@@ -1,0 +1,23 @@
+{
+  "name": "stats-preview-card",
+  "version": "1.0.0",
+  "description": "Frontend-Mentor Challenge 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttf-frontend-dev/stats-preview-card.git"
+  },
+  "author": "Chris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ttf-frontend-dev/stats-preview-card/issues"
+  },
+  "homepage": "https://github.com/ttf-frontend-dev/stats-preview-card#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-sass": "^6.0.1"
+  }
+}
