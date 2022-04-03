@@ -21,7 +21,7 @@
   "homepage": "https://github.com/ttf-frontend-dev/stats-preview-card#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "node-sass": "^6.0.1",
+    "node-sass": "^7.0.0",
     "nodemon": "^2.0.12",
     "path": "^0.12.7"
   }
